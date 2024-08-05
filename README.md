@@ -71,6 +71,10 @@ Generates various plots including:
 
 Uses linear regression to predict deaths and recoveries based on user-provided case values.
 
+Here are the results:
+
+
+
 ## 📝 Running the App
 
 To run the app, simply execute the following command in your terminal:
