@@ -1,3 +1,4 @@
+
 # 📊 Probability Project: Analyzing COVID Data
 
 Welcome to the **Probability Project**! This Dash application is designed to provide a comprehensive analysis of COVID-19 data using various statistical methods and visualizations. 🌟
@@ -71,10 +72,35 @@ Generates various plots including:
 
 Uses linear regression to predict deaths and recoveries based on user-provided case values.
 
-Here are the results:
+#### *Here are the results*:
+
+##### *Linear Regression Prediction of Deaths and Recover Cases*:
+
 ![Linear Reggression Prediction](https://github.com/user-attachments/assets/746c2a81-9d40-4106-80b4-101e45cfd659)
 
+##### *Linear Regression Prediction Recover Cases*:
 
+![linear Regression Prediction of recovered](https://github.com/user-attachments/assets/d6ac40bc-c231-489d-8bb6-2490a995e20c)
+
+##### *Pie Chart of Death Cases in each Province*:
+
+![Pie Chart of Death cases in each province](https://github.com/user-attachments/assets/417556c7-cfa6-49c9-bf9d-830cf0025c66)
+
+##### *Pie Chart of Recover Cases in each Province*:
+
+![PieChart of recovered cases](https://github.com/user-attachments/assets/948ec5a1-9ecd-47d6-a321-1c2035fd6221)
+
+##### *Scatter Plot of death Cases in each Province*:
+
+![Scatter Plot Of Total Deaths by province](https://github.com/user-attachments/assets/dfe68e6b-375a-4131-88f8-0a1a52af92ef)
+
+##### *Component bar Plot of death Cases in each Province*:
+
+![Component bar plot of deaths](https://github.com/user-attachments/assets/2031ed18-2fdd-43d4-a720-0768dfeb9ddf)
+
+##### *Component bar Plot of Recover Cases in each Province*:
+
+![Component Bar plot of recovered Cases](https://github.com/user-attachments/assets/51c33245-2180-4150-a4e5-2bfa6d4cafc5)
 
 ## 📝 Running the App
 
