@@ -72,6 +72,7 @@ Generates various plots including:
 Uses linear regression to predict deaths and recoveries based on user-provided case values.
 
 Here are the results:
+![Linear Reggression Prediction](https://github.com/user-attachments/assets/746c2a81-9d40-4106-80b4-101e45cfd659)
 
 
 
