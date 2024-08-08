@@ -25,6 +25,8 @@ The layout consists of dropdowns, buttons, and various graphs:
 - **Prediction Inputs**: Enter new case values to predict deaths and recoveries.
 - **Graphs**: Visualizations are updated based on your selection.
 
+- ---
+
 ### 3. **Callbacks**
 
 The app uses Dash callbacks to update the content based on user interactions:
